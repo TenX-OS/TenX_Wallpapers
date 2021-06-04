@@ -2,6 +2,7 @@
   "index": [
     "bright-minimal-papers",
     "abstract2-papers",
+    "abstract3-papers",
     "bubbles-papers",
     "abstract-papers",
     "uncategorized"
@@ -16,6 +17,11 @@
       "name": "abstract2-papers",
       "title": "Abstract 2 Papers",
       "url": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Banners/abstract2-papers.jpg"
+    },
+    {
+      "name": "abstract3-papers",
+      "title": "Abstract 3 Papers",
+      "url": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Banners/abstract3-papers.jpg"
     },
     {
       "name": "bubbles-papers",
@@ -103,6 +109,37 @@
           "id": "a2p-7",
           "url": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%202%20Papers/a2p-7.png",
           "thumb": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%202%20Papers/a2p-7-compressed.png"
+        }
+      ]
+    },
+    {
+      "name": "abstract3-papers",
+      "title": "Abstract 3 Papers",
+      "wall_link": [
+        {
+          "id": "a3p-1",
+          "url": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%203%20Papers/a3p-1.png",
+          "thumb": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%203%20Papers/a3p-1-compressed.png"
+        },
+        {
+          "id": "a3p-2",
+          "url": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%203%20Papers/a3p-2.png",
+          "thumb": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%203%20Papers/a3p-2-compressed.png"
+        },
+        {
+          "id": "a3p-3",
+          "url": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%203%20Papers/a3p-3.png",
+          "thumb": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%203%20Papers/a3p-3-compressed.png"
+        },
+        {
+          "id": "a3p-4",
+          "url": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%203%20Papers/a3p-4.png",
+          "thumb": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%203%20Papers/a3p-4-compressed.png"
+        },
+        {
+          "id": "a3p-5",
+          "url": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%203%20Papers/a3p-5.png",
+          "thumb": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Abstract%203%20Papers/a3p-5-compressed.png"
         }
       ]
     },
@@ -321,6 +358,16 @@
           "id": "uncategorized-29",
           "url": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Uncategorized/uncategorized-29.png",
           "thumb": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Uncategorized/uncategorized-29-compressed.png"
+        },
+        {
+          "id": "uncategorized-30",
+          "url": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Uncategorized/uncategorized-30.png",
+          "thumb": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Uncategorized/uncategorized-30-compressed.png"
+        },
+        {
+          "id": "uncategorized-31",
+          "url": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Uncategorized/uncategorized-31.png",
+          "thumb": "https://raw.githubusercontent.com/TenX-OS/TenX_Wallpapers/master/Wallpapers/Uncategorized/uncategorized-31-compressed.png"
         }
       ]
     }
